@@ -1,6 +1,6 @@
-		💖Improved RedLine stealer crack💖
+## 💖**Improved RedLine stealer crack💖**
 
- 		❗ About the product: ❗ 
+ ❗ About the product: ❗ 
 ⭐ Tool in English.
 ⭐ Available on Windows and Linux.
 ⭐ No malware or backdoor.
@@ -8,7 +8,7 @@
 ⭐ Frequently updated.
 ⭐ The tools include:  Builder
 
-		  ❗ Functions ❗
+❗ Functions ❗
 ⭕ Captches passwords and bitches from browsers: Chrome, Edge, Firefox, etc.
 ⭕ Receives Discord: Token, Email, Phone, Id, Username, etc..
 ⭕ Captches Roblox cookies.
