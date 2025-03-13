@@ -2,8 +2,6 @@
 ![Логотип](https://github.com/user-attachments/assets/0e713f30-a08c-425a-8d73-db1cb5c89af8)
 ## **❗ About the product: ❗** 
 - ⭐ Tool in English.
-- ⭐ Available on Windows and Linux.
-- ⭐ No malware or backdoor.
 - ⭐ Open Source only for verification, ensuring no malicious programs.
 - ⭐ Frequently updated.
 - ⭐ The tools include:  Builder
