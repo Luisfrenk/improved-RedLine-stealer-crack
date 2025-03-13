@@ -9,7 +9,7 @@
 ⭐ The tools include:  Builder
 
 ## **❗ Functions ❗**
-+⭕ Captches passwords and bitches from browsers: Chrome, Edge, Firefox, etc.
+- ⭕ Captches passwords and bitches from browsers: Chrome, Edge, Firefox, etc.
 +⭕ Receives Discord: Token, Email, Phone, Id, Username, etc..
 +⭕ Captches Roblox cookies.
 +⭕ Captches Minecraft session files.
