@@ -10,19 +10,19 @@
 
 ## **❗ Functions ❗**
 - ⭕ Captches passwords and bitches from browsers: Chrome, Edge, Firefox, etc.
-+⭕ Receives Discord: Token, Email, Phone, Id, Username, etc..
-+⭕ Captches Roblox cookies.
-+⭕ Captches Minecraft session files.
-+⭕ Captches System Info: User, System, Ip, Disk, Screen, Location, etc.
-+⭕ Captches Camera Capture: Record the victim's computer camera..
-+⭕ Captches Capture the victim's computer screen.
-+⭕ Captches wallets.
-+⭕ Captches Telegram sessions.
-+⭕ Blocks AV sites (glitches).
-+⭕ Adds itself to startup.
-+⭕ Anti-virtual machine.
-+⭕ Obfuscation.
-+⭕ Self-destruction.
+- ⭕ Receives Discord: Token, Email, Phone, Id, Username, etc..
+- ⭕ Captches Roblox cookies.
+- ⭕ Captches Minecraft session files.
+- ⭕ Captches System Info: User, System, Ip, Disk, Screen, Location, etc.
+- ⭕ Captches Camera Capture: Record the victim's computer camera..
+- ⭕ Captches Capture the victim's computer screen.
+- ⭕ Captches wallets.
+- ⭕ Captches Telegram sessions.
+- ⭕ Blocks AV sites (glitches).
+- ⭕ Adds itself to startup.
+- ⭕ Anti-virtual machine.
+- ⭕ Obfuscation.
+- ⭕ Self-destruction.
 
 ## **❗ Settings ❗**
 🎀 Custom payload icon.
